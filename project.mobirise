@@ -1,0 +1,143 @@
+{
+  "settings": {
+    "name": "rivetHAUS",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise5",
+      "title": "Mobirise 5",
+      "titlePreset": "Mobirise 5",
+      "styling": {
+        "primaryColor": "#b690e4",
+        "secondaryColor": "#ff6666",
+        "successColor": "#40b0bf",
+        "infoColor": "#b690e4",
+        "warningColor": "#FFE161",
+        "dangerColor": "#ff9966",
+        "mainFont": "Jost",
+        "display1Font": "Jost",
+        "display1Size": 4.6,
+        "display2Font": "Jost",
+        "display2Size": 3,
+        "display5Font": "Jost",
+        "display5Size": 2,
+        "display7Font": "Jost",
+        "display7Size": 1.2,
+        "display4Font": "Jost",
+        "display4Size": 1.1,
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": false,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#b690e4"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.7.12",
+    "siteFonts": [
+      {
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
+    "imageResize": false,
+    "favicon": "@PROJECT_PATH@/assets/images/rivethaus-favicon.png",
+    "mbrsiteDomain": "na0quijfnv",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://rivethaus.com",
+    "gdpr": false,
+    "witsec-mailform": false,
+    "uniqCompNum": 3,
+    "versionPublish": "5.7.12",
+    "screenshot": "screenshot.png",
+    "cookiesAlert": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "rivetHAUS",
+        "meta_descr": "rivetHAUS is an online fashion company. The brand is committed to quality, comfort, and cutting edge subculture styles.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n\n\n\n  <meta charset=\"UTF-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"generator\" content=\"Mobirise v5.0.29, mobirise.com\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, minimum-scale=1\">\n  \n  \n  <title>October Sage</title>\n  <link rel=\"stylesheet\" href=\"assets/tether/tether.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap-grid.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap-reboot.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/dropdown/css/style.css\">\n  <link rel=\"stylesheet\" href=\"assets/socicon/css/styles.css\">\n  <link rel=\"stylesheet\" href=\"assets/theme/css/style.css\">\n  <link rel=\"preload\" as=\"style\" href=\"assets/mobirise/css/mbr-additional.css\"><link rel=\"stylesheet\" href=\"assets/mobirise/css/mbr-additional.css\" type=\"text/css\">\n  \n  \n  \n  \n\n\n  \n  \n\n <div id=\"myShop\">\n    <a href=\"https://rivethaus.myspreadshop.com\">rivethaus</a>\n</div>\n\n[JS_CODE_0]\n\n[JS_CODE_1]\n\n<section class=\"footer3 cid-sQdxhoO3JN mbr-reveal\" once=\"footers\" id=\"footer3-t\">\n\n    \n\n    \n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            \n            \n            <div class=\"row row-copirayt\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style mbr-white align-center display-4\">©.</p>\n            </div>\n        </div>\n    </div>\n</section>\n\n\n  [JS_CODE_2]\n  [JS_CODE_3]\n  [JS_CODE_4]\n  [JS_CODE_5]\n  [JS_CODE_6]\n  [JS_CODE_7]\n  [JS_CODE_8]\n  [JS_CODE_9]\n  [JS_CODE_10]\n  [JS_CODE_11]\n  [JS_CODE_12]\n  \n  \n  \n<!-- <div id=\"cookie-dialog\" style=\"display: none;\"><div id=\"cookiesdirective\"><div style=\"position: fixed; top: 0; right: 0; bottom: 0; left: 0; background-color: rgb(0, 0, 0); opacity: 0.8; z-index: 9999;\"></div><div style=\"position: fixed; top: 0; right: 0; bottom: 0; left: 0; display: flex; align-items: center; z-index: 10000\"><div class=\"cookie-wrapper\" style=\"position: relative; width: 100%; max-width: 500px; margin-right: auto; margin-left: auto; padding: 1rem; text-align: center; border-radius: .3rem; box-shadow: 0 10px 40px 0 rgba(0,0,0,0.2); color:#ff9966; background:rgba(0, 0, 0, 0.81);\"><div class=\"mbr-text\"><p class=\"display-7\">THIS WEBSITE MAY NOT VIEW OR PERFORM CORRECTLY ON MICROSOFT EDGE. <br>\n<br>WE SUGGEST GOOGLE CHROME! \n<br></p></div><div class=\"mbr-section-btn\"><a style=\"margin:0; background-color:#ff9966 !important; color:#FFFFFF!important; border-color:#ff9966 !important;;\" class=\"btn btn-sm btn-primary display-7\" id=\"impliedsubmit\">I Understand</a></div></div></div></div></div>\n  <input name=\"cookieData\" type=\"hidden\" data-cookie-customDialogSelector='#cookie-dialog' data-cookie-colorText='#ff9966' data-cookie-colorBg='rgba(0, 0, 0, 0.81)' data-cookie-textButton='I Understand' data-cookie-colorButton='#ff9966' data-cookie-colorLink='#424a4d' data-cookie-underlineLink='true' data-cookie-text=\"THIS WEBSITE MAY NOT VIEW OR PERFORM CORRECTLY ON MICROSOFT EDGE. <br>\n<br>WE SUGGEST GOOGLE CHROME! \n<br>\"> -->\n  \n",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "mobirise5",
+          "_JSplaceholders": [
+            "<script>\n    var spread_shop_config = {\n        shopName: 'rivethaus',\n        locale: 'us_US',\n        prefix: 'https://rivethaus.myspreadshop.com',\n        baseId: 'myShop'\n    };\n</script>",
+            "<script type=\"text/javascript\"\n        src=\"https://rivethaus.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js\">\n</script>",
+            "<script src=\"assets/web/assets/jquery/jquery.min.js\"></script>",
+            "<script src=\"assets/popper/popper.min.js\"></script>",
+            "<script src=\"assets/tether/tether.min.js\"></script>",
+            "<script src=\"assets/bootstrap/js/bootstrap.min.js\"></script>",
+            "<script src=\"assets/web/assets/cookies-alert-plugin/cookies-alert-core.js\"></script>",
+            "<script src=\"assets/web/assets/cookies-alert-plugin/cookies-alert-script.js\"></script>",
+            "<script src=\"assets/smoothscroll/smooth-scroll.js\"></script>",
+            "<script src=\"assets/dropdown/js/nav-dropdown.js\"></script>",
+            "<script src=\"assets/dropdown/js/navbar-dropdown.js\"></script>",
+            "<script src=\"assets/touchswipe/jquery.touch-swipe.min.js\"></script>",
+            "<script src=\"assets/theme/js/script.js\"></script>"
+          ],
+          "_PHPplaceholders": [],
+          "_params": {},
+          "_anchor": "custom-html-0"
+        },
+        {
+          "_name": "afooter2",
+          "_sourceTheme": "structurem5",
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "position": "relative",
+            "margin-top": "-1px",
+            "overflow": "hidden",
+            ".section-border-item": {
+              "background-color": "@borderColor"
+            },
+            ".mbr-text": {
+              "color": "#FFFFFF"
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer2 structurem5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\" checked>\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#000000\" condition=\"showBorder\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#000000\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#090f10\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"section-border-item section-border-item_top\" mbr-if=\"showBorder\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://www.facebook.com/rivethaus\" class=\"text-primary\" target=\"_blank\">Facebook </a>| <a href=\"https://www.instagram.com/rivethaus/\" class=\"text-primary\" target=\"_blank\">Instagram </a>| <a href=\"https://twitter.com/rivethaus\" class=\"text-primary\" target=\"_blank\">Twitter </a>| <a href=\"https://www.linkedin.com/company/rivethaus/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a><br>© [JS_CODE_0] rivetHAUS.<br>rivetHAUS is a venture of <a href=\"https://delioenterprises.com\" class=\"text-danger\" target=\"_blank\" style>DELIO ENTERPRISES</a>.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [
+            "<script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script>"
+          ],
+          "_PHPplaceholders": [],
+          "_anchor": "afooter2-2",
+          "_isUserblock": true,
+          "_cid": "tvVkwU0aR7",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        }
+      ]
+    }
+  }
+}

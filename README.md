@@ -1,2 +1,2 @@
 # rivethaus
-Hosting for rivetHAUS.com
+Hosting for RivetHAUS.com

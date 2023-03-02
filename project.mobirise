@@ -7,7 +7,7 @@
       "title": "Mobirise 5",
       "titlePreset": "Mobirise 5",
       "styling": {
-        "primaryColor": "#e2122f",
+        "primaryColor": "#ff0000",
         "secondaryColor": "#ff6666",
         "successColor": "#40b0bf",
         "infoColor": "#b690e4",
@@ -47,7 +47,7 @@
     ],
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/rivethaus-favicon.png",
-    "mbrsiteDomain": "m9gzg9ejvv",
+    "mbrsiteDomain": "urrqqzzqcu",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
@@ -58,7 +58,8 @@
     "uniqCompNum": 4,
     "versionPublish": "5.7.12",
     "screenshot": "screenshot.png",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "modified": "2023-02-15T18:30:00.022Z"
   },
   "pages": {
     "index.html": {
@@ -126,7 +127,7 @@
               "color": "#ffffff"
             }
           },
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer2 structurem5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\" checked>\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#000000\" condition=\"showBorder\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#000000\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#090f10\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"section-border-item section-border-item_top\" mbr-if=\"showBorder\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://www.facebook.com/gabbyandmin\" class=\"text-primary\" target=\"_blank\">Facebook </a>| <a href=\"https://www.instagram.com/gabbyandmin/\" class=\"text-primary\" target=\"_blank\">Instagram </a>| <a href=\"https://twitter.com/gabbyandmin\" class=\"text-primary\" target=\"_blank\">Twitter </a>| <a href=\"https://www.linkedin.com/company/gabbyandmin/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a><br>© [JS_CODE_0] RivetHAUS.<br>RivetHAUS is a venture of <a href=\"https://delioenterprises.com\" class=\"text-primary\" target=\"_blank\" style>DELIO ENTERPRISES</a>.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer2 structurem5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\" checked>\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#000000\" condition=\"showBorder\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#000000\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#090f10\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"section-border-item section-border-item_top\" mbr-if=\"showBorder\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><a href=\"https://www.facebook.com/rivethaus\" class=\"text-primary\" target=\"_blank\">Facebook </a>| <a href=\"https://www.instagram.com/rivethaus/\" class=\"text-primary\" target=\"_blank\">Instagram </a>| <a href=\"https://twitter.com/RivetHAUS_\" class=\"text-primary\" target=\"_blank\">Twitter </a>| <a href=\"https://www.linkedin.com/company/rivethaus/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a><br>© [JS_CODE_0] RivetHAUS.<br>RivetHAUS is a venture of <a href=\"https://delioenterprises.com\" class=\"text-primary\" target=\"_blank\" style>DELIO ENTERPRISES</a>.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_JSplaceholders": [
             "<script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script>"
           ],

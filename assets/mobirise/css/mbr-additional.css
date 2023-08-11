@@ -682,6 +682,46 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-tMDgKCkXlB {
+  display: flex;
+  background-image: url("../../../assets/images/finished-models-2.png");
+}
+.cid-tMDgKCkXlB .mbr-overlay {
+  background-color: #353535;
+  opacity: 0.5;
+}
+.cid-tMDgKCkXlB .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 768px) {
+  .cid-tMDgKCkXlB {
+    align-items: flex-end;
+  }
+  .cid-tMDgKCkXlB .row {
+    justify-content: flex-start;
+  }
+  .cid-tMDgKCkXlB .content-wrap {
+    width: 51%;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-tMDgKCkXlB .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tMDgKCkXlB {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-tMDgKCkXlB .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-tMDgKCkXlB .content-wrap {
+    width: 100%;
+  }
+}
 .cid-tvWgPLar7D {
   padding-top: 30px;
   padding-bottom: 30px;
